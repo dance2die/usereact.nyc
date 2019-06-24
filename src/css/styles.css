@@ -477,9 +477,6 @@ a:hover {
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-  }
-
   body {
     background: #111;
   }
